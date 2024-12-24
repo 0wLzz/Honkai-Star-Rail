@@ -1,0 +1,79 @@
+Along the Passing Shore,Nihility,APS.bmp,5,Acheron,Welt
+An Instant Before A Gaze,Erudition,IBG.bmp,5,Argenti,Serval
+Baptism of Pure Thought,Hunt,BPT.bmp,5,Dr. Ratio,Dr. Ratio
+Before Dawn,Erudition,B4D.bmp,5,Jing Yuan,Himeko,Qingque,Herta,Serval
+Brighter Than the Sun,Destruction,BTS.bmp,5,Dan Heng: Imbibitor Lunae,Dan Heng: Imbibitor Lunae
+But the Battle Isn't Over,Harmony,BBO.bmp,5,Bronya,TIngyun,Asta,Hanya,Ruan Mei,Sparkle,Robin,Trailblazer(Imaginary)
+Cruising in the Stellar Sea,Hunt,CSS.bmp,5,None,Dan Heng,Seele,Sushang,Yanqing,Topaz,Dr. Ratio,Boothill
+Earthly Escapade,Harmony,EE.bmp,5,Sparkle,Hanya,Bronya,Tingyun
+Echoes of the Coffin,Abundance,EOC.bmp,5,Luocha,Luocha
+Flowing Nightglow,Harmony,FN.bmp,5,Robin,Tingyun
+I Shall Be My Own Sword,Destruction,SMO.bmp,5,Jingliu,Jingliu
+In the Name of the World,Nihility,INW.bmp,5,Welt,Kafka,Pela,Sampo,Silver Wold,Luka,Acheron
+In the Night,Hunt,ITN.bmp,5,Seele,Yanqing,Sushang,Dan Heng,Dr. Ratio
+Incessant Rain,Nihility,IR.bmp,5,Silver Wolf,Kafka,Pela,Welt,Luka,Guinafen,Black Swan,Acheron
+Inherently Unjust Destiny,Preservation,IUD.bmp,5,Aventurine,March 7th
+Moment of Victory,Preservation,MOV.bmp,5,Gepard,March 7th,Trailblazer (Fire)
+Night of Fright,Abundance,NOF.bmp,5,Huohuo,Bailu,Natasha,Lynx,Gallagher,Luocha
+Night on the Milky Way,Erudition,NMW.bmp,5,Himekom Herta,Jing Yuan,Qingque,Serval,Argenti
+On the Fall of an Aeon,Destruction,OFA.bmp,5,None,Hook,Trailblazer (Physical),Xueyi,Misha
+Past Self in Mirror,Harmony,PSM.bmp,5,Ruan Mei,Robin,Trailblazer (Imaginary)
+Patience is All You Need,Nihility,PAN.bmp,5,Kafka,Guinafen,Black Swan,Achernn
+Reforged Remembrance,Nihility,RR.bmp,5,Black swan,Kafka,Guinafen
+Saiing Towards A Second Life,Hunt,STS.bmp,5,Boothill,Sushang
+She Already Shut Her Eyes,Preservation,SAS.bmp,5,Fu Xuan,Trailblazer (Fire)
+Sleep Like the Dead,Hunt,SLD.bmp,5,Yanqing,Dan Heng,Seele,Sushang,Topaz,Dr. Ratio,Boothill
+Solitary Healing,Nihility,SH.bmp,5,None,Sampo,Luka,Guinafen,Black Swan
+Something Irreplaceable,Destruction,SI.bmp,5,Clara,Arlan,Blade,Hook,Trailblazer (Physical),Imbibitor Lunae,Jingliu
+Texture of Memories,Preservation,TM.bmp,5,None,Fu Xuan,Gepard,Trailblazer (Fire)
+The Unreachable Side,Destruction,US.bmp,5,Blade,Arlan
+Time Waits for No One,Abundance,TWN.bmp,5,Bailu,Luocha,Natasha,Lynx,Huohuo,Gallagher
+Worrisome Blissful,Hunt,WB.bmp,5,Topaz,Dr. Ratio
+A Secret Vow,Destruction,ASV.bmp,4,Arlan,Blade,Clara,Imbibitor Lunae,Jingliu,Xueyi,Misha
+Before the Tutorial Mission Starts,Nihility,BMS.bmp,4,Silver Wolf,Pela,Welt,Luka,Black Swan
+Boundless Choreo,Nihility,BC.bmp,4,Acheron,Welt
+Carve the Moon Weave the Clouds,Harmony,CMW.bmp,4,Tingyun,Asta,Bronya,Tingyun,Yukong,Hanya,Ruan Mei,Sparkle
+Concert for Two,Preservation,CFT.bmp,4,Sunday,Aventurine
+Dance! Dance! Dance!,Harmony,DDD.bmp,4,Hook,Asta,Bronya,Tingyun,Yukong,Hanya,Ruan mei,Sparkle,Trailblazer (Imaginary)
+Day One of My New Life,Preservation,DOM.bmp,4,March 7th,Fu Xuan,Gepard,Trailblazer (Fire),Aventurine
+Destiny's Threads Forewoven,Preservation,DTF.bmp,4,Firefly,Aventurine
+Dreamville Adventure,Harmony,DAD.bmp,4,Clockie,Bronya,Tingyun,Yukong,Hanya,Sparkle
+Eyes of the Prey,Nihility,EOP.bmp,4,Sampo,Kafka,Luka,Guinafen,Black Swan
+Fermata,Nihility,F4.bmp,4,Kafka,Sampo,Luka,Guinafen,Black Swan,Acheron
+Final Victor,Hunt,FV.bmp,4,Dr. Ratio,Dan Heng,Seele,Sushang,Yanqing,Topaz
+Flames Afar,Destruction,FA.bmp,4,Firefly,Blade
+For Tomorrow's Journey,Harmony,FTJ.bmp,4,Late Trailblazers,Robin
+Geniuses' Repose,Erudition,GR.bmp,4,Ruan Mei,Herta,Himeko,Jing Yuan,Qingque,Serval,Argenti
+Good Night and Sleep Well,Nihility,GNS.bmp,4,Pela,Sampo,Guinafen,Luka
+Hey Over Here,Abundance,HOH.bmp,4,Guinaifen,Huohuo,Gallagher
+Indelible Promise,Destruction,IP.bmp,4,Misha,Misha
+It's Showtime,Nihility,IS.bmp,4,Sparkle,Guinaigen,Black Swan,Acheron
+Landau's Choice,Preservation,LSC.bmp,4,Gepard,Fu Xuan,March 7th,Trailblazer (Fire)
+Make the World Clamor,Erudition,MWC.bmp,4,Serval,Argenti
+Memories of the Past,Harmony,MOP.bmp,4,Bronya,Ruan Mei,Yukong,Asta,Tingyun,Hanya,Robin,Trailblazer (Imaginary)
+Nowhere to Run,Destruction,NR.bmp,4,Blade,Arlan,Clara,Trailblazer (Physical),Imbibitor Lunae,Jingliu,Xueyi,Misha
+Only Silence Remains,Hunt,OSR.bmp,4,Dan Heng,Seele,Sushang,Yanqing,Topaz,Dr. Ratio
+Past and Future,Harmony,PAF.bmp,4,Bronya,Yukong,Hanya,Sparkle
+Perfect Timing,Abundance,PT.bmp,4,Luocha,Lynx,Huohuo,Gallagher
+Planetary Rendezvous,Harmony,PR.bmp,4,Asta,Tingyun,Yukong,Hanya,Ruan Mei,Sparkle
+Post-Op Conversation,Abundance,POC.bmp,4,Natasha,Bailu,Luocha,Lynx,Huohuo,Gallagher
+Quid Pro Quo,Abundance,QPQ.bmp,4,Bailu,Luocha,Natasha,Lynx
+Resolution Shines as Pearls of Sweat,Nihility,RSP.bmp,4,Luka,Pela,Sampo,Silver Wolf,Welt,Luka,Black swan,Acheron
+Return to Darkness,Hunt,RTD.bmp,4,Hanya,Dan Heng,Topaz,Dr. Ratio
+River Flows in Spring,Hunt,RFS.bmp,4,Yan Qing,Dan Heng,Seele,Sushang,Dr. Ratio
+Shared Feeling,Abundance,SFG.bmp,4,Natasha,Bailu,Luocha,Lynx,Huohuo,Gallagher
+Subscribe for More!,Hunt,SFM.bmp,4,Guinaifen,Guinaifen
+Swordplay,Hunt,SPY.bmp,4,Sushang,Dan Heng,Seele,Sushang,Yan Qing,Topaz,Dr. Ratio,Boothill
+The Birth of the Self,Erudition,BOS.bmp,4,Herta,Himeko,Jing Yuan,Qingque
+The Day The Cosmos Fell,Erudition,DTC.bmp,4,None,Herta,Himeko,Jing Yuan,Serval,Argenti
+The Moles Welcome You,Destruction,MWY.bmp,4,Hook,Arlan,Clara,Trailblazer (physical),Imbibitor Lunae,Xueyi,Misha,Jingliu
+The Seriousness of Breakfast,Erudition,SOB.bmp,4,Pompom,Serval,Herta,Himeko,Qingque,Argenti
+This is Me!,Preservation,TIM.bmp,4,Himeko & March,Trailblazer (Fire),Aventurine
+Today is Another Peaceful Day,Erudition,TAP.bmp,4,Qingque,Herta,Himeko,Jing Yuan,Serval,Argenti
+Trend of the Universal Market,Preservation,TUM.bmp,4,Topaz,Gepard,March 7th,Trailblazer (Fire),Aventurine
+Under the Blue Sky,Destruction,UBS.bmp,4,Arlan,Blade,Clara,Hook,Trailblazer,Imbibitor Lunae,Jingliu,Xueyi,Misha
+Warmth Shortens Cold Nights,Abundance,WSC.bmp,4,Pela & Lynx,Natasha,Lynx,Gallagher
+We Are Wildfire,Preservation,WAW.bmp,4,None,Fu Xuan,Gepard
+We Will Meet Again,Nihility,WWMA.bmp,4,Dr. Screwllum,Pela,Silver Wolf,Welt,Luka
+What is Real,Abundance,WIR.bmp,4,Gallagher,Gallagher
+Woof! Walk Time!,Desctruction,WWT.bmp,4,Peppy (NPC),Hook

@@ -1,0 +1,14 @@
+Izumo Gensei and Takama Divine Realm,IGT.bmp,Increases the wearer's ATK by 12%,9,Acheron,Blade,Dr. Ratio
+Sigonia the Unclaimed Desolation,SUD.bmp,Increases the wearer's CRIT Rate by 4%,9,Clara,Aventurine
+Penacony Land of the Dreams,PLD.bmp,Increases the wearer's Energy Regeneration Rate by 5%,8,Silver Wolf,Asta,Tingyun,Bailu,Silver Wold,Huohuo,Hanya,Ruan Mei,Sparkle
+Firmament Frontline Glamoth,FFG.bmp,Increases the wearer's ATK by 12%,8,Kafka,Sampo,Luka,Guinaifen,Black Swan,Himeko,Seele,Serval,Herta,Yanqing,Sushang,Welt
+Broken Keel,BKL.bmp,Increases the wearer's Effect RES by 10%,7,Aventurine,Sparkle,Fu Xuan,Bronya,Luocha,Tingyun,Trailblazer (Fire),Asta,Bailu,
+Rutilant Arena,RAA.bmp,Increases the wearer's CRIT Rate by 8%,7,Imbibitor Lunar,Seele,Sushang,Qingque,Trailblazer,Arlan,Dan Heng,Blade
+Space Sealing Station,SSS.bmp,Increases the wearer's ATK 12%,3,Kafka,Sampo,Herta,Serval,Welt,Trailblazer,Jing Yuan,Imbibitor Lunae,Guinaifen,Black Swan
+Fleet of the Ageless,FTA.bmp,Increases the wearer's Max HP by 12%,3,Bailu,Natasha,Asta,Gepard,March 7th,Pela
+Talia: Kingdom of Banditry,TKB.bmp,Increases the wearer's Break Effect by 16%,4,Ruan Mei,Xueyi,Gallagher
+Sprightly Vonwacq,SVQ.bmp,Increases the wearer's Energy Regeneration Rate by 5%,4,Natasha,Silver Wolf,Ruan Mei
+Pan-Cosmic Commercial Enterprise,PCE.bmp,Increases the wearer's Effect Hit Rate by 10%,5,Silver Wolf,Welt,Pela,Luka,Black Swan
+Celestial Differentiator,CDR.bmp,Increases the wearer's CRIT DMG by 16%,5,Any DPS
+Belobog of the Architects,BTA.bmp,Increases the wearer's DEF by 15%,6,Gepard,March 7th,Trailblazer (Fire)
+Inert Salsotto,ISO.bmp,Increases the wearer's CRIT Rate by 8%,6,Aventurine,Argenti,Dr. Ratio,Blade,Jing Yuan,Serval,Clara,Yanqing,Himeko

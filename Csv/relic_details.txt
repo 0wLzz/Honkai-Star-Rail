@@ -1,0 +1,18 @@
+Sizzling Thunder,ST.bmp,Increase Lightning DMG by 10%,Path of Holy Hymn (Xianzhou Luofu),Arlan,Serval,Kafka,Jing Yuan
+Streetwise Boxing,SB.bmp,Increase Physical DMG by 10%,Path of Jabbing Punch(Jarilo VI),Clara,Sushang,Luka,Trailblazer (Physical)
+Twilight Line,TL.bmp,Increase Wind DMG by 10%,Path of Gelid Wind (Herta Space Station),Dan Heng,Sampo
+Briliant Stars,BS.bmp,Increase QUantum DMG by 10%,Path of Providence (Jarilo VI),Seele,Qingque,Jingliu
+Wuthering Snow,WS.bmp,Reduces DMG taken by 8%,Path of Providence (Jarilo VI),Gepard,Trailblazer (Fire),Fu Xuan
+Glacial Forest,GF.bmp,Increase Ice DMG by 10%,Path of Gelid Wind (Herta Space Station),Jingliu,Yanqing,Herta,Misha
+Purity Palace,PP.bmp,Increase DEF by 15%,Path of Holy Hymn (Xianzhou Luofu),Aventurine,Gepard,Trailblazer (Fire),March 7th
+Longevous Disciple,LD.bmp,Increase Max HP by 12%,Path of Elixir (Xianzhou Luofu),Blade,Arlan
+Messenger Traversing Hackerspace,MTH.bmp,Increases SPD by 6%,Path of Elixir (Xianzhou Luofu),Sparkle,Bronya,Tingyun,Asta,Natasha,Bailu
+Wild Wheat,WW.bmp,Increase ATK by 12%,Path of Drifting (Jarilo IV),Imbibitor Lunae,Qingque,Yukong,Pela
+Wandering Cloud,WC.bmp,Increases Outgoing Healing by 10%,Path of Drifting (Jarilo VI),Bailu,Natasha,Luocha,Fu Xuan,Lynx,Huohuo
+Dead Waters,DW.bmp,Increase DMG dealt to enemies with debuff by 12%,Path of Dreamdive (Penacony),Aventurine,Acheron,Dr. Ratio,Welt,Dan Heng,Hook,Serval
+Deep Confinement,DC.bmp,Increases ATK by 12%,Path of Darkness (Xianzhou Luofu),Kafka,Black Swan,Sampo,Luka,Guinafen
+Ashblazing Grand Duke,AGD.bmp,Increases follow-up attack DMG by 20%,Path of Darkness (Xianzhou Luofu),Jing Yuan,Himeko,Topaz,Herta
+Shooting Meteor,SM.bmp,Increase Break Effect by 16%,Path of Jabbing Punch (Jarilo VI),Boothill,Ruan Mei,Trailblazer (Imaginary),Asta
+Banditry Desert,BD.bmp,Increase Imaginary DMG by 10%,Path of Conflagration (Xianzhou Luofu),Imbibitor Lunae,Welt,Dr. Ratio
+Dream Machination,DM.bmp,Increase Break Effect by 16%,Path of Dreamdive (Penacony),Ruan Mei,Trailblazer (Imaginary) 
+Lava-Forging,LF.bmp,Increase Fire DMG by 10%,Path of Conflagration (Xianzhou Luofu),Himeko,Hook
